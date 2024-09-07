@@ -2,9 +2,9 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
-/* Barra de navegación*/
+/* Barra de navegación y footer*/
 
-.color-nav {
+.color-nav, .color-foot {
   background-color: #8a2be2;
 }
 
@@ -43,3 +43,5 @@ body {
   }
 
 }
+
+
